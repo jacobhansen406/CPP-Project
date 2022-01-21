@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "looping quiz", "looping qui
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GS1-4", "GS1-4\GS1-4.vcxproj", "{CB792A98-2D83-4A0A-BB77-AB45F9A2C7BE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GS4-1", "GS4-1\GS4-1.vcxproj", "{B9DE09DE-9F20-4C8D-AFF1-2141F55E60DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{CB792A98-2D83-4A0A-BB77-AB45F9A2C7BE}.Release|x64.Build.0 = Release|x64
 		{CB792A98-2D83-4A0A-BB77-AB45F9A2C7BE}.Release|x86.ActiveCfg = Release|Win32
 		{CB792A98-2D83-4A0A-BB77-AB45F9A2C7BE}.Release|x86.Build.0 = Release|Win32
+		{B9DE09DE-9F20-4C8D-AFF1-2141F55E60DC}.Debug|x64.ActiveCfg = Debug|x64
+		{B9DE09DE-9F20-4C8D-AFF1-2141F55E60DC}.Debug|x64.Build.0 = Debug|x64
+		{B9DE09DE-9F20-4C8D-AFF1-2141F55E60DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9DE09DE-9F20-4C8D-AFF1-2141F55E60DC}.Debug|x86.Build.0 = Debug|Win32
+		{B9DE09DE-9F20-4C8D-AFF1-2141F55E60DC}.Release|x64.ActiveCfg = Release|x64
+		{B9DE09DE-9F20-4C8D-AFF1-2141F55E60DC}.Release|x64.Build.0 = Release|x64
+		{B9DE09DE-9F20-4C8D-AFF1-2141F55E60DC}.Release|x86.ActiveCfg = Release|Win32
+		{B9DE09DE-9F20-4C8D-AFF1-2141F55E60DC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
