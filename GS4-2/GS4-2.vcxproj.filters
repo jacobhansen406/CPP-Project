@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GS4-2.cpp">
+    <ClCompile Include="GS6-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
