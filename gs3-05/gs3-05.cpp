@@ -14,7 +14,7 @@ int main()
 
 	printf("welcome to the art museum. we have like 3 pictures for you to look at\n");
 	printf("which would you like to examine\n");
-	printf("deer\ncat\nstroke\n");
+	printf("deer\ncat\ndog\n");
 	cin >> art;
 	if (art == "hope")
 	{
