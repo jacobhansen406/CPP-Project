@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b9de09de-9f20-4c8d-aff1-2141f55e60dc}</ProjectGuid>
-    <RootNamespace>GS41</RootNamespace>
+    <ProjectGuid>{325d2bd6-4877-4e0d-9db3-7954fad713c2}</ProjectGuid>
+    <RootNamespace>GS44</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>GS6-1</ProjectName>
+    <ProjectName>GS6-4</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="GS4-1.cpp" />
+    <ClCompile Include="GS4-4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
