@@ -20,7 +20,7 @@ int main()
     do
     {
         system("cls");
-        printf("Welcome to the Carlson Concession Stand!\n");
+        printf("Welcome to the hansen Concession Stand!\n");
         printf("We sell drinks, popcorn, candy, and nachoes.\n\n");
         _getch;
 
