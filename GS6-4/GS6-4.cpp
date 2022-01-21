@@ -42,7 +42,7 @@ int room3(int choice)
     printf("You are in room 3\n");
     do
     {
-        printf("Will you go to room 4 or room 7?\n");
+        printf("will you go to room 4 or room 7?\n");
         printf(">");
         choice;
         scanf_s("%i", &choice);

@@ -16,7 +16,7 @@ int main()
 
     printf("please input your name\n");
     cin >> name;
-    printf("ok %s, the test will commence shortly\n", name.c_str());
+    printf("ok %s, the test will start shortly\n", name.c_str());
     printf("-press any button to start-");
     _getch();
     system("CLS");
@@ -98,7 +98,7 @@ int main()
 
     if (score < 0)
     {
-        printf("nice job bozo you got %f", score);
+        printf("nice job you got %f", score);
     }
     else if (score > 0)
     {
