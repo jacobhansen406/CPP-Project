@@ -16,7 +16,7 @@ int main()
 	printf("which would you like to examine\n");
 	printf("deer\ncat\ndog\n");
 	cin >> art;
-	if (art == "hope")
+	if (art == "deer")
 	{
 		printf("\|/    \|/\n");
 		printf("  \    /\n");
@@ -27,13 +27,15 @@ int main()
 		printf("        ||   | |       \n");
 		printf("        ||    ||       \n");
 		printf("        "     "        \n");
-
+		cin >> art;
+		if (art == "cat")
 
 		printf("      |\      _,,,---,,_         \n");
 		printf("ZZZzz /,`.-'`'    -.  ;-;;,_       \n");
 		printf("     |,4-  ) )-,_. ,\ (  `'-'\n");
 		printf("    '---''(_/--'  `-'\_)\n");
-
+		cin >> art;
+		if (art == "dog")
 
 		printf("             .--~~,__      \n");
 		printf(":-....,-------`~~'._.'    \n");
