@@ -14,7 +14,7 @@ int main()
 
 	printf("welcome to the art museum. we have like 3 pictures for you to look at\n");
 	printf("which would you like to examine\n");
-	printf("hope\ndreams\nstroke\n");
+	printf("deer\ncat\nstroke\n");
 	cin >> art;
 	if (art == "hope")
 	{
@@ -27,3 +27,16 @@ int main()
 		printf("        ||   | |       \n");
 		printf("        ||    ||       \n");
 		printf("        "     "        \n");
+
+
+		printf("      |\      _,,,---,,_         \n");
+		printf("ZZZzz /,`.-'`'    -.  ;-;;,_       \n");
+		printf("     |,4-  ) )-,_. ,\ (  `'-'\n");
+		printf("    '---''(_/--'  `-'\_)\n");
+
+
+		printf("             .--~~,__      \n");
+		printf(":-....,-------`~~'._.'    \n");
+		printf(" `-,,,  ,_      ;'~U'    \n");
+		printf("  _,-' ,'`-__; '--.      \n");
+		printf(" (_/'~~      ''''(;     \n");
