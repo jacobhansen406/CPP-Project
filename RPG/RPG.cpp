@@ -40,7 +40,6 @@ void doo(int dooo)
     cout << "once you get through you are aproached with a giant squid lookin thing?\n";
     cout << "It starts shooting ink at you! what way do you dodge? left 1 or 2 right\n";
 
-    int has.j4;
 
     cin >> has.j4;
     system("CLS");
@@ -52,7 +51,7 @@ void doo(int dooo)
 
     case 2:
         cout << "You dodged right into it.\n";
-        return 0;
+        return ;
     }
     cout << "Your dog Bites it on one of the tenticles and it just poofs into nothingness.\n";
     cout << "a door pops open in \n";
@@ -69,7 +68,7 @@ void doo(int dooo)
     {
     case 1:
         cout << "You dodge left and get your face caved into a wall by a giant piece of bacon.\n";
-        return 0;
+        return ;
 
     case 2:
         cout << "You dodge right and smack him right in the face\n";
@@ -80,7 +79,8 @@ void doo(int dooo)
 
 
     cout << "you take a really hard hit when you land.\n";
-    cout << "Once you land you see three items, a picket knife a candy cane and a strip of bacon that fell with you.\n";
+    cout << "Once you land you see three items, a pocket knife a candy cane and a strip of bacon that fell with you.\n";
+    cout << "choose one of the 3. 1,2,3 \n";
     int doo;
     cin >> doo;
     cout << "Great choice! you pick it up and through it at a wall and it slices a little hole in it. you peek through and you\n";
@@ -112,6 +112,8 @@ void doo(int dooo)
     cout << "you enter the other room and there is someone running at you with a knife\n";
     cout << "do you dodge left or right?\n";
     int dsa;
+    cin >> dsa; 
+    system("CLS");
     switch (dsa)
     {
     case 1:
@@ -120,7 +122,7 @@ void doo(int dooo)
 
     case 2:
         cout << "you dodge right into the man knife\n";
-        return 0;
+        return ;
     }
 
     cout << "you spin quickly and choke him to death.\n";
