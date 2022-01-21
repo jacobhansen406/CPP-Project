@@ -25,7 +25,6 @@ int main()
         printf("\nPlease input your first name\n");
         printf(">");
         cin >> person.first;
-        //scanf_s("%s", &phone);
         fseek(stdin, 0, SEEK_END);
 
         printf("%s... is this correct?\t(y for yes || else for no)\n", person.first.c_str());
@@ -40,7 +39,6 @@ int main()
         printf("\nPlease input your middle name\n");
         printf(">");
         cin >> person.middle;
-        //scanf_s("%s", &phone);
         fseek(stdin, 0, SEEK_END);
 
         printf("%s... is this correct?\t(y for yes || else for no)\n", person.middle.c_str());
@@ -55,7 +53,6 @@ int main()
         printf("\nPlease input your last name\n");
         printf(">");
         cin >> person.last;
-        //scanf_s("%s", &phone);
         fseek(stdin, 0, SEEK_END);
 
         printf("%s... is this correct?\t(y for yes || else for no)\n", person.last.c_str());
@@ -84,7 +81,6 @@ int main()
         printf("\nPlease input your phone number\n");
         printf(">");
         cin >> person.phone;
-        //scanf_s("%s", &phone);
         fseek(stdin, 0, SEEK_END);
 
         printf("%s... is this correct?\t(y for yes || else for no)\n", person.phone.c_str());
