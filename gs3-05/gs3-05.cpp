@@ -27,18 +27,25 @@ int main()
 		printf("        ||   | |       \n");
 		printf("        ||    ||       \n");
 		printf("        "     "        \n");
-		cin >> art;
-		if (art == "cat")
+	}
+	else if (art == "cat")
+	{
 
 		printf("      |\      _,,,---,,_         \n");
 		printf("ZZZzz /,`.-'`'    -.  ;-;;,_       \n");
 		printf("     |,4-  ) )-,_. ,\ (  `'-'\n");
 		printf("    '---''(_/--'  `-'\_)\n");
-		cin >> art;
-		if (art == "dog")
+	}
+	else if (art == "dog")
+	{
 
 		printf("             .--~~,__      \n");
 		printf(":-....,-------`~~'._.'    \n");
 		printf(" `-,,,  ,_      ;'~U'    \n");
 		printf("  _,-' ,'`-__; '--.      \n");
 		printf(" (_/'~~      ''''(;     \n");
+	}
+	_getch();
+
+	return 0;
+}
