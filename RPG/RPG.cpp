@@ -26,7 +26,7 @@ void doo(int dooo)
     fseek(stdin, 0, SEEK_END);
     cout << "Hi" << has.j1 << "Welcome to the puzzler!\n";
     cout << "welcome to the first room. find a way to get out!\n";
-    cout << "what do you want? axe or a pice of wood?\n";
+    cout << "what do you want? axe or a piece of wood?\n";
     cin >> has.j2;
     cout << "you take it and you through it at the floor and the floor busts open and you fall through.\n";
     cout << "you land in another floor with a dog? what would you like to name the dog?\n";
